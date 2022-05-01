@@ -6,7 +6,9 @@
 
     PUT (index명)
 
-데이터 입력
+<br/>
+
+### 데이터 입력
 
 > example
 
