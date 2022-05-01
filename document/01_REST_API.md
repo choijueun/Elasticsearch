@@ -2,6 +2,10 @@
 
 ## PUT
 
+### INDEX 생성
+
+    PUT (index명)
+
 데이터 입력
 
 > example
