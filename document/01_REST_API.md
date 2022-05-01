@@ -12,3 +12,9 @@
     "message": "안녕하세요 Elasticsearch"
     }'
 
+> _CREATE
+
+실수로 기존 도큐먼트가 덮어씌워지는 것을 방지
+
+    6.x 이전 버전에서는 
+    PUT <인덱스>/<도큐먼트 타입>/<도큐먼트 id>/_create
